@@ -8,9 +8,9 @@
 
 *Construyendo sistemas reales para desarrollar espacios llenos de vida.*
 
-[![Website](https://img.shields.io/badge/Website-Logix.ar-1E293B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://logix.ar/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiziano%20Ambrosino-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logixarcompany@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Logix.ar-1E293B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://logixar.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-Tiziano%20Ambrosino-0A66C2?style=for-the-badge&logo=instagram)](https://instagram.com/tiziano_ambrosino/)
+[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tizianoambrosinologix@gmail.com)
 
 </div>
 
